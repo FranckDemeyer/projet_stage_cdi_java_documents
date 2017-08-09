@@ -1,0 +1,25 @@
+Use cases Admin:
+- modération utilisateurs
+- prix de base
+
+Architecture :
+
+Back-end Java SpringBoot sur base MongoDB pour la majorité et MySQL pour la gestion des transactions de paiement
+- BDD
+- DAO
+- Services
+- Web Services REST/JSON
+
+Front-end Angular Ionic appelant les WS
+
+Front-end end-users en appli mobile seulement
+
+Todolist :
+- Analyse
+	. corriger et finir les diagrammes d'activité
+	. maquettes écrans
+	. diagramme de navigation avec pour base un diagramme d'activité ou d'état-transition
+	. Structure de la BDD
+	. Diagramme de classe
+	. Diagramme de packages
+	. Diagramme de déploiement
