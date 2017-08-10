@@ -1,4 +1,4 @@
-Use cases Admin:
+﻿Use cases Admin:
 - modération utilisateurs
 - prix de base
 
@@ -21,10 +21,11 @@ Todolist :
 		✓2 recherche et réservation trajet plus vue profil utilisateur
 		✓3 Saisie et validation trajet
 		✓4 voir les réservations et accepter / refuser les réservations sur un de mes trajets
-		5 Voir les trajets effectués et évaluer les utilisateurs ayant partagé ce trajet
+		✓5 Voir les trajets effectués et évaluer les utilisateurs ayant partagé ce trajet
 		✓6 gérer mon compte et mes véhicules
-		7 Gestion des utilisateurs admin
-		8 gestion des prix de base admin
+		✓7 Gestion des utilisateurs admin
+		✓8 gestion des prix de base admin
+		 9 declaration de presence
 	. maquettes écrans
 	. diagramme de navigation avec pour base un diagramme d'activité ou d'état-transition
 	. Structure de la BDD
