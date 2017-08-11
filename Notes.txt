@@ -26,9 +26,9 @@ Todolist :
 		✓7 Gestion des utilisateurs admin
 		✓8 gestion des prix de base admin
 		✓9 declaration de presence
-	.  maquettes écrans
-	.  diagramme de navigation avec pour base un diagramme d'activité ou d'état-transition
-	.  Structure de la BDD
-	.  Diagramme de classe
-	.  Diagramme de packages
-	.  Diagramme de déploiement
+	. maquettes écrans
+	. diagramme de navigation avec pour base un diagramme d'activité ou d'état-transition
+	. Structure de la BDD
+	. Diagramme de classe
+	. Diagramme de packages
+	. Diagramme de déploiement
