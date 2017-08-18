@@ -33,15 +33,15 @@ Todolist :
 	.✓ Diagramme de packages
 	. Diagramme de déploiement
 
-Mettre le numéro de téléphone obligatoirement en nom d'utilisateur
+✓ Mettre le numéro de téléphone obligatoirement en nom d'utilisateur
 Faire une sélection par ville et par quartier ex : saisie / sélection Dakar puis saisie / sélection quartier
 ✓ on laisse tomber la sélection par carte. 
-Pour la création, on ajoute un champ de saisie pour ajouter le détail des points de rendez-vous.
-créer  : préciser date-heure départ aller, date-heure départ retour
+✓ Pour la création, on ajoute un champ de saisie pour ajouter le détail des points de rendez-vous.
+✓ créer  : préciser date-heure départ aller, date-heure départ retour
 ✓ on fait sauter la partie mes adresses
 ✓ supprimer saisir / proposer un trajet dans use case visiteur
 ajout écran paiement dans les maquettes et les diagrammes
-ajouter supprimer mon compte dans écran mon compte
+✓ ajouter supprimer mon compte dans écran mon compte
 faire un service séparé pour les images, voir pour autres infos ?
 voir pour séparer en plusieurs back par fonctionnalités qui communiquent par WS (utilisateurs, trajets, véhicules, images, ...)
 voir JWT authentification with ionic 3 and spring boot (htttps://golb.hplr.ch/p/JWT-Authentication-with-Ionic-2-and-Spring-Boot)
