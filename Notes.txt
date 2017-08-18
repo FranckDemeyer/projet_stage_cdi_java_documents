@@ -39,7 +39,7 @@ Faire une sélection par ville et par quartier ex : saisie / sélection Dakar pu
 Pour la création, on ajoute un champ de saisie pour ajouter le détail des points de rendez-vous.
 créer  : préciser date-heure départ aller, date-heure départ retour
 ✓ on fait sauter la partie mes adresses
-supprimer saisir / proposer un trajet dans use case visiteur
+✓ supprimer saisir / proposer un trajet dans use case visiteur
 ajout écran paiement dans les maquettes et les diagrammes
 ajouter supprimer mon compte dans écran mon compte
 faire un service séparé pour les images, voir pour autres infos ?
